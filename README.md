@@ -1,5 +1,5 @@
 # RUGVED-TaskPhase
-### hackerrank id: @piyush_mohapatra (Python 3 stars completed) <br /><br />
+hackerrank id: @piyush_mohapatra (Python 3 stars completed) <br /><br />
 
 ## Week 1:<br /><br />
 - [x] Dual Boot UBUNTU 20.0.4 - Completed<br />
