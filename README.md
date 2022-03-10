@@ -14,5 +14,6 @@ hackerrank id: @piyush_mohapatra (Python 3 stars completed) <br /><br />
 <br /><br />
 ## Week 3:<br /><br />
 - [x] Tested datasets and familiarised with numpy array function<br />
-- [ ] Currently understanding opencv documentation and practising<br />
-### [Image data testing on a nebula helix image using numpy and opencv](https://github.com/piyush-mk/RUGVED-TaskPhase/tree/Image-Testing)
+- [ ] Currently understanding opencv documentation and practising<br /><br/>
+## Updates:<br /><br />
+### [Image data testing and Image-Processing](https://github.com/piyush-mk/RUGVED-TaskPhase/tree/Image-Testing)
