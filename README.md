@@ -9,7 +9,7 @@ hackerrank id: @piyush_mohapatra (Python 3 stars completed) <br /><br />
 ### [Lane Detection initial try](/lane_detection)<br /><br />
 ## Week 4:<br /><br />
 - [x] Practice opencv functions<br /><br/>
-### [Image data testing and Image-Processing](/image-testing)<br /><br/ >
+### [Image data testing and Image-Processing](/image-testing)<br /><br/>
 ## Week 3:<br /><br />
 - [x] Tested datasets and familiarised with numpy array function<br />
 - [x] Currently understanding opencv documentation and practising<br /><br/>
