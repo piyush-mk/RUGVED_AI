@@ -10,10 +10,10 @@ hackerrank id: @piyush_mohapatra (Python 3 stars completed) <br /><br />
 ## Week 2:<br /><br />
 - [x] Set up environment for Python - Completed<br />
 - [x] Testing Datasets and familiarising with python - Currently Doing course on coursera and practising alongside and learning numpy<br />
-### [Numpy Data Testing work on netflix data comparing prices and testing other features.](https://github.com/piyush-mk/RUGVED-TaskPhase/tree/NumpyTest)
+### [Numpy Data Testing work on netflix data comparing prices and testing other features.](/main/numpy_test)
 <br /><br />
 ## Week 3:<br /><br />
 - [x] Tested datasets and familiarised with numpy array function<br />
-- [ ] Currently understanding opencv documentation and practising<br /><br/>
+- [x] Currently understanding opencv documentation and practising<br /><br/>
 ## Updates:<br /><br />
 ### [Image data testing and Image-Processing](https://github.com/piyush-mk/RUGVED-TaskPhase/tree/Image-Testing)
