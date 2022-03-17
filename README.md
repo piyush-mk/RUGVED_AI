@@ -23,4 +23,5 @@ hackerrank id: @piyush_mohapatra (Python 3 stars completed) <br /><br />
 - [ ] Optimize lane detection<br /><br/>
 ### [Lane Detection initial try](/lane_detection)
 ## Updates:<br /><br />
-### [lane detection initial try final output](/lane_detection/roads_v2.mp4)
+### [lane detection initial try final output](https://drive.google.com/file/d/1lRDPGI160fulm44VFOD3pfzty3KG2y0o/view?usp=sharing)<br />
+[Video given for testing input](https://drive.google.com/file/d/13G4UdK9bJ8w2sUotUw9Fin7vbA1ZcvT5/view?usp=sharing)
