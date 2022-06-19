@@ -3,7 +3,7 @@
   <name>atom</name>
   <version>0.0.0</version>
   <description>The atom package</description>
-  <maintainer email="piyush/.oofcl@gmail.com">piyush</maintainer>
+  <maintainer email="piyush.ofcl@gmail.com">piyush</maintainer>
   <license>TODO</license>
 
   <buildtool_depend>catkin</buildtool_depend>
