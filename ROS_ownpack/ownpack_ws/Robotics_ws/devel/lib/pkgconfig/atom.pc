@@ -1,8 +1,0 @@
-prefix=/home/piyush/ownpack_ws/Robotics_ws/devel
-
-Name: atom
-Description: Description of atom
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
