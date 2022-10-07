@@ -1,5 +1,4 @@
 # RUGVED-TaskPhase
-hackerrank id: @piyush_mohapatra (Python 3 stars completed) <br /><br />
 ## Updates:<br /><br />
 ## Week 6...:<br /><br />
 - [x] Lear ROS<br />
