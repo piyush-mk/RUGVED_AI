@@ -16,7 +16,7 @@ frame_height = int(cap.get(4))
    
 size = (frame_width, frame_height) 
 
-result = cv2.VideoWriter('/home/piyush/Tracking/balltrackingnew.avi',cv2.VideoWriter_fourcc(*'MPEG'),10, size) 
+result = cv2.VideoWriter('../vid.mp4',cv2.VideoWriter_fourcc(*'MPEG'),10, size) 
 while True:
     grapped,frame=cap.read()
     if grapped == True:
